@@ -1,4 +1,4 @@
 ﻿# Tic-Tac-Toe
 Tres en raya básico del tutorial de React.
 
-Proyecto desplegado en netlify: https://glittering-crostata-ce25d3.netlify.app/
+Proyecto desplegado en netlify: https://tres-en-raya-vite.netlify.app
